@@ -1,4 +1,4 @@
-# CityParking-App
+# CityParking
 
 Projecto AMS 2019/2020
 
